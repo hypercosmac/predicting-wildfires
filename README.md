@@ -1,5 +1,5 @@
 # Predicting Wildfires
-Predicting wildfires using a decision tree machine learning algorithm
+Predicting wildfires using a decision tree machine learning algorithm. The algorithm takes in data for 2017 and 2018 for locations around the world to predict wildfires.
 
 ## Accessing Data
 NASA data for fires based on satellite imagery: https://firms.modaps.eosdis.nasa.gov/download/create.php
